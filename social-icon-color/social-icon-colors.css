@@ -14,11 +14,11 @@ html,body{
 }
 
 .dribble{
-    background-color: #ea4c89;
+    background-color: #ea4c89;  /*French Rose*/
 }
 
 .facebook{
-    background-color: #3b5998;  
+    background-color: #3b5998;  /*Mariner*/
 }
 
 .instagram{
@@ -26,25 +26,25 @@ html,body{
 }
 
 .linked-in{
-    background-color: #0e76a8;
+    background-color: #0077b5; /*Cerulean*/
 }
 
 .pinterest{
-    background-color: #BD081C;
+    background-color: #BD081C; /*Venetian Red*/
 }
 
 .stack-overflow{
-    background-color: #F48024;
+    background-color: #F48024; /*Pumpkin*/
 }
 
 .twitter{
-    background-color: #1DA1F2;
+    background-color: #1DA1F2; /*Dodger Blue*/
 }
 
 .whatsapp{
-    background-color: #4FCE5D;
+    background-color: #4FCE5D; /*UFO Green*/
 }
 
 .youtube{
-    background-color: #FF0000;
+    background-color: #FF0000; /*Red*/
 }
