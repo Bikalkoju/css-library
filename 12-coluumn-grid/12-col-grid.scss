@@ -1,0 +1,135 @@
+/*
+theme name: 12 column grid
+*/
+
+*,html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+
+.col-1{
+    flex: 8.33%;
+    max-width: 8.33%;
+}
+
+.col-2{
+    flex: 16.66%;
+    max-width: 16.66%;
+}
+
+.col-3{
+    flex: 25%;
+    max-width: 25%;
+}
+
+.col-4{
+    flex: 33.33%;
+    max-width: 33.33%;
+}
+
+.col-5{
+    flex: 41.65%;
+    max-width: 41.65%;
+}
+
+.col-6{
+    flex: 50%;
+    max-width: 50%;
+}
+
+.col-7{
+    flex: 58.35%;
+    max-width: 58.35%;
+}
+
+.col-8{
+    flex: 66.66%;
+    max-width: 66.66%;
+}
+
+.col-9{
+    flex: 75%;
+    max-width: 75%;
+}
+
+.col-10{
+    flex: 83.34%;
+    max-width: 83.34%;
+}
+
+.col-11{
+    flex: 91.66%;
+    max-width: 91.66%;
+}
+
+.col-12{
+    flex: 100%;
+    max-width: 100%;
+}
+
+
+
+
+.column{
+    height: 200px;
+    font-size: 48px;
+    color: #fff;
+    text-align: center;
+    line-height: 200px;
+}
+
+.one{
+    background: rgb(255, 0, 0);
+}
+
+.two{
+    background: rgb(200, 0, 0);
+}
+
+.three{
+    background: rgb(150, 0, 0);
+}
+
+.four{
+    background: rgb(100, 0, 0);
+}
+
+.five{
+    background: rgb(50, 0, 0);
+}
+
+.six{
+    background: rgb(0, 255, 0);
+}
+
+.seven{
+    background: rgb(0, 200, 0);
+}
+
+.eight{
+    background: rgb(0, 170, 0);
+}
+
+.nine{
+    background: rgb(0, 125, 0);
+}
+
+.ten{
+    background: rgb(0, 80, 0);
+}
+
+.eleven{
+    background: rgb(0, 50, 0);
+}
+
+.twelve{
+    background: rgb(0, 0, 255);
+}
